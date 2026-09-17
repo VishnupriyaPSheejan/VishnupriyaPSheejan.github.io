@@ -1,0 +1,11 @@
+title: "AI Stories From Tomorrow"
+description: "Exploring Agentic AI, LLMs, and the future of building with AI — one story at a time."
+theme: minima
+minima:
+  skin: dark
+author: Vishnupriya
+show_excerpts: true
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
